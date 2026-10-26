@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 
-const API_BASE_URL = 'https://en-backend-m8ma.onrender.com'
+const API_BASE_URL = 'https://en-backend-p3na.onrender.com'
 
 function emptyNoteForm() {
   return {
